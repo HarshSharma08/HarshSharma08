@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
+<h1 align="center">Hi there 👋,</h1>
+<p align="center">
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="banner that says Harsh Sharma - software engineer">
-
+<p>
 - 🔭 I’m currently working on **React.js, Java**
 - 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on ...
-- 💬 Ask me about java
 - 📫 Reach me at:harshsharmaji68@gmail.com
 - 😄 Pronouns: He/Him
 
