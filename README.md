@@ -3,6 +3,7 @@
 <img src="developer.gif" alt="banner that says Harsh Sharma - software engineer">
 <p>
   
+  
 - 🔭 I’m currently working on **React.js, Java**
 - 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on ...
