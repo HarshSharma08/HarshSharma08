@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋,</h1>
 <p align="center">
-<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="banner that says Harsh Sharma - software engineer">
+<img src="developer.gif" alt="banner that says Harsh Sharma - software engineer">
 <p>
   
 - 🔭 I’m currently working on **React.js, Java**
