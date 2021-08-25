@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="banner that says Harsh Sharma - software engineer">
 <p>
+  
 - 🔭 I’m currently working on **React.js, Java**
 - 🌱 I’m currently learning **Node.js**
 - 👯 I’m looking to collaborate on ...
