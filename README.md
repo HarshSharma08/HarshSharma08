@@ -5,7 +5,7 @@
   
   
 - 🔭 I’m currently working on **React.js, Java**
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 - 👯 I’m looking to collaborate on ...
 - 📫 Reach me at:harshsharmaji68@gmail.com
 - 😄 Pronouns: He/Him
