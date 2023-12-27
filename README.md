@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on **Spring boot and hibernate**
 - 🌱 I’m currently learning **Devops**
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate in real time projects
 - 📫 Reach me at:harshsharmaji68@gmail.com
 - 😄 Pronouns: He/Him
 
