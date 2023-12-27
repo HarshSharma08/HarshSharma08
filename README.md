@@ -4,8 +4,8 @@
 <p>
   
   
-- 🔭 I’m currently working on **JAVA**
-- 🌱 I’m currently learning **JAVA**
+- 🔭 I’m currently working on **Spring boot and hibernate**
+- 🌱 I’m currently learning **Devops**
 - 👯 I’m looking to collaborate on ...
 - 📫 Reach me at:harshsharmaji68@gmail.com
 - 😄 Pronouns: He/Him
