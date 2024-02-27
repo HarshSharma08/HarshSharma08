@@ -1,6 +1,5 @@
 <h1 align="">Hi there 👋,</h1>
 <p align="center">
-<img src="developer.gif" alt="banner that says Harsh Sharma - software engineer">
 <p>
   
 - 🔭 I’m currently working on **Spring boot and hibernate**
